@@ -8,7 +8,7 @@ window.onload = function() {
     let originX = window.innerWidth / 2;
     let originY = window.innerHeight / 2;
 
-    let m = posY - 50;
+    let m = posY - 100;
 
     console.log("window.innerWidth: " + originX);
     console.log("window.innerHeight: " + originY);
@@ -40,7 +40,7 @@ function moveSquare() {
     let originX = window.innerWidth / 2;
     let originY = window.innerHeight / 2;
 
-    let m = posY - 100;
+    let m = posY - 500;
 
     console.log("window.innerWidth: " + originX);
     console.log("window.innerHeight: " + originY);
