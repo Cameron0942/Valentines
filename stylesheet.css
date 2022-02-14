@@ -21,6 +21,7 @@ h3 {
     background-color: rgb(252, 142, 243);
     margin-left: 50px;
     color: rgb(83, 41, 41);
+    z-index: 10;
 }
 
 #circle {
