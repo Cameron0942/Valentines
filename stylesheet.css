@@ -28,7 +28,7 @@ h2 {
 
 h3 {
     background-color: rgb(252, 142, 243);
-    margin-left: 50px;
+    margin-left: 5px;
     padding: 5px;
     color: rgb(83, 41, 41);
 }
@@ -125,4 +125,12 @@ button {
 #fact5 {
     display: none;
     max-width: 350px;
+}
+
+#conc {
+    text-align: center;
+    background-color: rgb(252, 142, 243);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 2px;
 }
